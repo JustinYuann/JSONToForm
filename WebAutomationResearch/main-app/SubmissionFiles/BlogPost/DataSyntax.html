@@ -1,0 +1,142 @@
+<!DOCTYPE HTML>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Generic - Forty by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo"><strong></strong> <span></span></a>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<ul class="links">
+							<li><a href="index.html">Home</a></li>
+							<li><a href="Research.html">Overview</a></li>
+							<li><a href="ProjectWalkthrough.html">Project Walkthrough</a></li>
+							<li><a href="GetTheCode.html">My Current Work</a></li>
+							<li><a href="RecursiveJSONParser.html">JSON Structure</a></li>
+							<li><a href="JSONParser.html">Recursive JSON Structure</a></a></li>
+							<li><a href="Problems.html">Current Problems & Progress</a></li>
+						</ul>
+						<!-- <ul class="actions stacked">
+							<li><a href="#" class="button primary fit">Get Started</a></li>
+							<li><a href="#" class="button fit">Log In</a></li>
+						</ul> -->
+					</nav>
+
+				<!-- Main -->
+					<div id="main" class="alt">
+
+						<!-- One -->
+							<section id="one">
+								<div class="inner">
+									<header class="major">
+										<h1>Official Data Declaration Syntax</h1>
+									</header>
+									<p>This section is talking about the syntax/declaration I have added to declare specific data types/data entries. </p>
+								</div>
+							</section>
+							<section id="one">
+								<div class="inner">
+									<header class="major">
+										<h1>Data Types vs Data Entry Types</h1>
+									</header>
+									<p>Currently my system accepts certain “types”. It can accept data types like “date” which is a “data type” but it will accept data entry types like “select” which is a data entry type. </p>
+									<br>
+									<p>This can be seen as confusing as the question “what does the JSON declare, data types or data entry types”. I hope to combat this later on in development.  For now, I’ll just be referencing Data Types/Data Entries as “Data Declaration”.  </p>
+
+									<h1>Supported Data Entry Declaration</h1>
+									<ul>
+										<li>Single line text</li>
+										<li>Date</li>
+										<li>Yes and No</li>
+										<li>Number</li>
+										<li>Email</li>
+										<li>Dropdown Menu</li>
+										<li>Multi Text Area</li>
+									  </ul>
+									<h2>Specialized Data Declaration Explanation</h2>
+									<p>In this section, I will be stating what is meant by data declarations like “Select”.</p>
+
+									<h3>Email</h3>
+									<p>This would be checking the entered value against a generic email pattern that must contain an @ symbol</p>
+
+									<h3>Dropdown Menu</h3>
+									<p>This would be used if the user has many options to choose from. For example, a user would be selecting a title</p>
+
+									<h3>Yes and No</h3>
+									<p>This would be used for “Yes” or “No” fields. For example, for Boolean data fields. You can see an example of data fields that asks the user if they are senior or not.   </p>
+
+									<h3>Date</h3>
+									<p>Currently right now, the date picker that I am using requires a time to be entered in. Anyway, this is a self-explanatory data type. Just needed to declare why, it requires a time. </p>
+
+									<h1>The Syntax</h1>
+									<p>Below you can see a typical declaration of it inside an Employee JSON.</p>
+									<img src = "images/SeniorDateEntryExample.png"/>
+									<p>To declare the String Value Pair should be an Object using curly brackets. Secondly, “Type” should be the first element in the Object, if it isn’t the system won’t recognize it as a “Data Declaration”. </p>
+									<img src = "images/SeniorDropDownMenu.png"/>
+									<p>As you can see this is the what the system rendered out and the default value was “Yes” which correlates to the value that was defined above. </p>
+
+									<h1>Further Development to be Done</h1>
+									<ul>
+										<li>Allow for more complex data entry types</li>
+										<li>Real time verification</li>
+										<ul>
+											<li>Used for password checks like symbols, length, and capitalization</li>
+										</ul>
+										<li>More robust declaration</li>
+										<ul>
+											<li>The “Type” does not have to be declared first</li>
+											<li>Case does not matter</li>
+										</ul>
+									</ul>
+								</div>
+							</section>
+							
+
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+							<ul class="icons">
+								<li><a href="https://github.com/JustinYuann" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+								<li><a href="https://www.linkedin.com/in/justin-pornasdoro-457940172/?originalSubdomain=uk" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+							</ul>
+							<ul class="copyright">
+								<li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

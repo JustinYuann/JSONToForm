@@ -1,0 +1,57 @@
+{
+    "Employees" : [
+        {
+        "userId":"rirani",
+        "jobTitleName":"Developer",
+        "firstName":"Romin",
+        "lastName":"Irani",
+        "preferredFullName":"Romin Irani",
+        "employeeCode":"E1",
+        "region":"CA",
+        "phoneNumber":"408-1234567",
+        "emailAddress":"romin.k.irani@gmail.com",
+        "dateOfBirth" : {
+            "type" : "date",
+            "value" : "19/02/1995",
+            "required": true
+
+        },
+        "senior" : {
+            "type" : "select",
+            "value" : true,
+            "required" : true
+        },  
+        "providedNames": {
+            "type" : "dropdown",
+            "required": true,
+            "value" : ["Romin","Roman"]
+        },
+        "comment" : {
+            "type" : "entryBox"
+        },
+        "AreYouCool" : {
+            "type" : "select",
+            "value" : true
+        },
+        "age" : {
+            "type" : "numberRange",
+            "value" : 19,
+            "required" : true,
+            "max" : 100,
+            "min" : 18
+        },
+        "New Email Address": {
+            "type": "email",
+            "required": true
+        },
+        "Needed Field": {
+            "required": true
+        },
+        "ObjectInside":{
+            "objectTwo" : {
+                "testValue": "Justin"
+            }
+        }
+        }   
+    ]
+}

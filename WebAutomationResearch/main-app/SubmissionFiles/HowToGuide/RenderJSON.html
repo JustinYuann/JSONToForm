@@ -1,0 +1,106 @@
+<!DOCTYPE HTML>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Generic - Forty by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo"><strong></strong> <span></span></a>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<ul class="links">
+							<li><a href="index.html">Home</a></li>
+							<li><a href="Research.html">Research</a></li>
+							<li><a href="Approach.html">My Approach</a></li>
+							<li><a href="Programs.html">Programs</a></li>
+							<li><a href="ErrorBug.html">My Errors and Bugs</a></li>
+							<li><a href="CurrentProgress.html">Current Progress</a></li>
+						</ul>
+						<!-- <ul class="actions stacked">
+							<li><a href="#" class="button primary fit">Get Started</a></li>
+							<li><a href="#" class="button fit">Log In</a></li>
+						</ul> -->
+					</nav>
+
+				<!-- Main -->
+					<div id="main" class="alt">
+
+						<!-- One -->
+							<section id="one">
+								<div class="inner">
+									<header class="major">
+										<h1>Render a JSON using Recursion</h1>
+									</header>
+									<p>This section will act as part 2 to the previous section on how to traverse a Nested JSON. I’ll be building upon previously mentioned code. So please make sure understand and have the code running.</p>
+									<br>
+									<p>Each time a complete String Value Pair that does not contain an object or array is found. A corresponding Label and Input Field will be created for said pair. If it’s an object or an array it will only print a Label but not an entry. This is because the value of the pair is an object or an array which doesn’t take in a value.</p>
+
+									<h1>React Hook Form</h1>
+									<p>This is the library we’ll be using to obtain all the fields. To install run the command: npm i react-hook-form </p>
+									<p>You can visit the NPM website at this link for more information: <a href="https://www.npmjs.com/package/react-hook-form">React Hook Form</a></p>
+
+									<h1>Adding React Rendering to Recursion</h1>
+									<h2>Create a Form</h2>
+									<img src = "images/StepOneCreateForm.jpg" width="90%" height="90%"/>
+									<p>The attribute onSubmit refers to the function that will be called once the Submit button is pressed. Below you can see the code that is referred to. Once Submit is pressed all the data is printed in the console. Please add both the top and bottom code snippets to your code. (Ensure that the import statement is at the top above the class definition)</p>
+									<img src = "images/StepOneOnSubmit.jpg" width="90%" height="90%"/>
+
+									<h2>Adjusting the Parser</h2>
+									<p>This section we’ll be going through how to take the recursive parser from the previous section and start rendering the data through react. Below you can see the updates version of the recursive parser. </p>
+									<img src = "images/StepTwoUpdateParser.jpg" width="90%" height="90%"/>
+
+									<h2>Connecting the Recursive Function to the Form</h2>
+									<p>You can now return all the rendered functions of the JSONs now you have to just connect it back to the Form you created on the first step. This is done simply by calling the function with the JSON data within the Form Componets like below. Also we add the submit button within the Form. This is all connected because we have used React Hook Form Library that interconnects all components that are inside a Form component. (Pretty cool IMO)</p>
+									<img src = "images/StepThreeConnectParser.jpg" width="90%" height="90%"/>
+									<p>The reason everything is connected is because of useForm which connected all the Input Components inside the Form Components. We may not be able to see actually Label and Input components, that is because it is coming from the return value of the recursiveParsers function.</p>
+								</div>
+							</section>
+							
+
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+							<ul class="icons">
+								<li><a href="https://github.com/JustinYuann" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+								<li><a href="https://www.linkedin.com/in/justin-pornasdoro-457940172/?originalSubdomain=uk" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+							</ul>
+							<ul class="copyright">
+								<li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

@@ -1,0 +1,114 @@
+<!DOCTYPE HTML>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Generic - Forty by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo"><strong></strong> <span></span></a>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<ul class="links">
+							<li><a href="index.html">Home</a></li>
+							<li><a href="Research.html">Overview</a></li>
+							<li><a href="ProjectWalkthrough.html">Project Walkthrough</a></li>
+							<li><a href="GetTheCode.html">My Current Work</a></li>
+							<li><a href="RecursiveJSONParser.html">JSON Structure</a></li>
+							<li><a href="JSONParser.html">Recursive JSON Structure</a></a></li>
+							<li><a href="Problems.html">Current Problems & Progress</a></li>
+						</ul>
+						<!-- <ul class="actions stacked">w
+							<li><a href="#" class="button primary fit">Get Started</a></li>
+							<li><a href="#" class="button fit">Log In</a></li>
+						</ul> -->
+					</nav>
+
+				<!-- Main -->
+					<div id="main" class="alt">
+
+						<!-- One -->
+							<section id="one">
+								<div class="inner">
+									<header class="major">
+										<h1>The Recursive Algorithm</h1>
+									</header>
+									<p>The purpose of the recursive algorithm in this current state (7/3/21) is to render JSON String Value Pairs. Currently it doesn’t support other data types like dates, times, numbers, or lists. Here are the basic steps that it takes:-</p>
+								</div>
+							</section>
+							<section id="one">
+								<div class="inner">
+									<header class="major">
+										<h1>Walkthrough</h1>
+									</header>
+									<ol>
+										<li>Create an array, that will hold the HTML return components.</li>
+										<li>Take an arbitrary JSON file and start the parse through it/search through it </li>
+										<li>Each loop, it will check if it has hit a String Value Pair or an Array/Object</li>
+										<li>If it’s a String Value Pair</li>
+										<ul>
+											<li>It will declare a label stating the “String” value and an entry box. It will then append this to the array that was declared at the start</li>
+										</ul>
+										<li>If it’s an array or object</li>
+										<ul>
+											<li>It will display the identifier of the array or object and then call the recursive function with the object/array.</li>
+											<li>This cycle will continue until it hit’s the end of the JSON. It will continue the append to the array the HTML components of each String Value</li>
+										</ul>
+										<li>Once it has hit the end of the of the JSON file. It will return the array to the React Renderer where it will be displayed.</li>
+									</ol>
+
+									<h1>Code Snippet</h1>
+									<img src = "images/RecursiveFunction.png">
+									<p>Above you can see the current version of my own parser. It only handles JSON objects and doesn’t recognise other data types.</p>
+		
+
+								</div>
+							</section>
+							
+
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+							<ul class="icons">
+								<li><a href="https://github.com/JustinYuann" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+								<li><a href="https://www.linkedin.com/in/justin-pornasdoro-457940172/?originalSubdomain=uk" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+							</ul>
+							<ul class="copyright">
+								<li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

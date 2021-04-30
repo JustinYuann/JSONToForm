@@ -1,0 +1,103 @@
+<!DOCTYPE HTML>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Generic - Forty by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo"><strong></strong> <span></span></a>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<ul class="links">
+							<li><a href="index.html">Home</a></li>
+							<li><a href="Research.html">Research</a></li>
+							<li><a href="Approach.html">My Approach</a></li>
+							<li><a href="Programs.html">Programs</a></li>
+							<li><a href="ErrorBug.html">My Errors and Bugs</a></li>
+							<li><a href="CurrentProgress.html">Current Progress</a></li>
+						</ul>
+						<!-- <ul class="actions stacked">
+							<li><a href="#" class="button primary fit">Get Started</a></li>
+							<li><a href="#" class="button fit">Log In</a></li>
+						</ul> -->
+					</nav>
+
+				<!-- Main -->
+					<div id="main" class="alt">
+
+						<!-- One -->
+							<section id="one">
+								<div class="inner">
+									<header class="major">
+										<h1>Implementing Real Time Validation</h1>
+									</header>
+									<p>This validation is already built into the React Hook Form NPM module which is great. For this tutorial, it won’t be using all the possible validation methods the module has but it will be covering the basics. Please find the NPM Module <a href="https://react-hook-form.com/">Here</a></p>
+
+									<h1>Declare Validation for a Field</h1>
+									<p>The code below, is defining an input that can only have numbers, has to be filled in, the minimum value is 18 and the maximum value is 105. As you can see the from the name parameter it’s age and that’s what it will be used for.</p>
+									<img src = "images/AgeJSONValidationDeclaration.jpg"width="20%"/>
+									<p>This is all well and good but nothing will appear when the input breaches one of the rules. We must declare another React component which will display the violation. Therefore you create an ErrorMessage component. Below is what the component looks like. </p>
+									<img src = "images/ErrorMessageComponent.jpg"width="90%"/>
+
+									<h1>How to Call the ErrorMessage Component</h1>
+									<img src = "images/ErrorMessageCalling.jpg" width = "50%"/>
+									<p>This is how it will be used with the Age input. You can see that the name parameter must be unique because that’s how the errormessage component connects to the input.</p>
+									
+									<h2>Example Errors</h2>
+									<h3>Error: Required</h3>
+									<img src = "images/AgeRequiredError.png"/>
+									<h3>Error: Min</h3>
+									<img src = "images/AgeMinError.png" width = "80%"/>
+									<h3>Error: Max</h3>
+									<img src = "images/AgeMaxError.png"/>
+								</div>
+							</section>
+							
+
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+							<ul class="icons">
+								<li><a href="https://github.com/JustinYuann" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+								<li><a href="https://www.linkedin.com/in/justin-pornasdoro-457940172/?originalSubdomain=uk" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+							</ul>
+							<ul class="copyright">
+								<li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

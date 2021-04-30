@@ -1,0 +1,118 @@
+<!DOCTYPE HTML>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Generic - Forty by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo"><strong></strong> <span></span></a>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<ul class="links">
+							<li><a href="index.html">Home</a></li>
+							<li><a href="Research.html">Overview</a></li>
+							<li><a href="ProjectWalkthrough.html">Project Walkthrough</a></li>
+							<li><a href="GetTheCode.html">My Current Work</a></li>
+							<li><a href="RecursiveJSONParser.html">JSON Structure</a></li>
+							<li><a href="JSONParser.html">Recursive JSON Structure</a></a></li>
+							<li><a href="Problems.html">Current Problems & Progress</a></li>
+						</ul>
+						<!-- <ul class="actions stacked">
+							<li><a href="#" class="button primary fit">Get Started</a></li>
+							<li><a href="#" class="button fit">Log In</a></li>
+						</ul> -->
+					</nav>
+
+				<!-- Main -->
+					<div id="main" class="alt">
+
+						<!-- One -->
+							<section id="one">
+								<div class="inner">
+									<header class="major">
+										<h1>Recursive JSON Parsing</h1>
+									</header>
+									<p>In this section, I’ll be talking about how the recursive JSON Parser works in the project. I’ll be going through step by step what each. But before you need to know about JSON Parsing and JSON Structure. </p>
+								</div>
+							</section>
+							<section id="one">
+								<div class="inner">
+									<header class="major">
+										<h1>What is a JSON Parser</h1>
+									</header>
+									<p>A JSON Parser means interpreting the data with the specific language that you are using at that moment. We’ll be using JavaScript in this case. JSON is usually read as a sting called the JSON string. This string follows the specification of the JSON. When we “parse” JSON, it means we are converting the string into a JSON object by following the JSON specification, where we can then use it in any way we wish. </p>
+
+									<h1>JSON Structure</h1>
+									<p>In this section, I’ll be going through the data structures that can be contained in a JSON. This is very important to allow you to further identify them in other JSONs and create “cases” for them that would manipulate them correctly. For example, if the String is a Boolean, create a checkbox instead of a text field.</p>
+									<h2>Objects</h2>
+									<img src = "images/JSON Object.png">
+									<p>Objects are surrounded with “{“ and “}”. Between them, several string values pairs can reside. For example, the object above contains, firstname, lastname, age, email. </p>
+
+									<h2>String Value Pair</h2>
+									<p>A string value pair is kinda of like variable declaration in some languages. “age” is known as the “String” or “Key” while “40” is known as the “value”. </p>
+									<img src = "images/JSON StringValue.png">
+									<p>A value can be many data types: String, number, object, array, boolean or null. You can declare multiple String Value pair, inside an object. </p>
+
+									<h2>Array</h2>
+									<p>Arrays are surrounded with “[“ and “]”. Between them, you can have multiple String Value Pairs. But you can even have array nested within an object.</p>
+									<img src = "images/JSON Array.png">
+									<p>Above you can see the array, contains 2 objects and each contains 2 String Value Pairs. This is important, as the project may need to return different React components based on if there’s an array or not! </p>
+
+									<h2>JSON Structure Diagram</h2>
+									<p>As you can see below, is an overall diagram of where Objects and Arrays usually start inside a typical JSON file.</p>
+									<img src = "images/JSON DataStructure.png">
+
+									<h2>Existing Code Bases</h2>
+									<p><a href="https://dev.to/baso53/recursive-rendering-in-react-building-a-universal-json-renderer-f59">Code Base 1</a></p>
+									<p>Above is a link to an article/how to guide on how to create exactly was is needed. However, it is in TypeScript. It's a great starting point and helps you identify how they handle specific data types. </p>
+								</div>
+							</section>
+							
+
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+							<ul class="icons">
+								<li><a href="https://github.com/JustinYuann" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+								<li><a href="https://www.linkedin.com/in/justin-pornasdoro-457940172/?originalSubdomain=uk" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+							</ul>
+							<ul class="copyright">
+								<li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

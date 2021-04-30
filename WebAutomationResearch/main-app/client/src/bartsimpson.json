@@ -1,0 +1,2205 @@
+{
+  "entities": {
+    "Q5480": {
+      "pageid": 6443,
+      "ns": 0,
+      "title": "Q5480",
+      "lastrevid": 1319245116,
+      "modified": "2020-12-07T04:28:22Z",
+      "type": "item",
+      "id": "Q5480",
+      "labels": {
+        "de": { "language": "de", "value": "Bart Simpson" },
+        "fr": { "language": "fr", "value": "Bart Simpson" },
+        "en": { "language": "en", "value": "Bart Simpson" },
+        "it": { "language": "it", "value": "Bart Simpson" },
+        "af": { "language": "af", "value": "Bart Simpson" },
+        "ar": {
+          "language": "ar",
+          "value": "\u0628\u0627\u0631\u062a \u0633\u064a\u0645\u0628\u0633\u0648\u0646"
+        },
+        "ast": { "language": "ast", "value": "Bart Simpson" },
+        "az": { "language": "az", "value": "Bart Simpson" },
+        "bar": { "language": "bar", "value": "Bart Simpson" },
+        "bg": {
+          "language": "bg",
+          "value": "\u0411\u0430\u0440\u0442 \u0421\u0438\u043c\u043f\u0441\u044a\u043d"
+        },
+        "bs": { "language": "bs", "value": "Bart Simpson" },
+        "ca": { "language": "ca", "value": "Bart Simpson" },
+        "cs": { "language": "cs", "value": "Bart Simpson" },
+        "da": { "language": "da", "value": "Bart Simpson" },
+        "es": { "language": "es", "value": "Bart Simpson" },
+        "et": { "language": "et", "value": "Bart Simpson" },
+        "eu": { "language": "eu", "value": "Bart Simpson" },
+        "fa": {
+          "language": "fa",
+          "value": "\u0628\u0627\u0631\u062a \u0633\u06cc\u0645\u067e\u0633\u0648\u0646"
+        },
+        "fi": { "language": "fi", "value": "Bart Simpson" },
+        "gl": { "language": "gl", "value": "Bart Simpson" },
+        "he": {
+          "language": "he",
+          "value": "\u05d1\u05d0\u05e8\u05d8 \u05e1\u05d9\u05de\u05e4\u05e1\u05d5\u05df"
+        },
+        "hr": { "language": "hr", "value": "Bart Simpson" },
+        "hu": { "language": "hu", "value": "Bart Simpson" },
+        "is": { "language": "is", "value": "Bart Simpson" },
+        "ja": {
+          "language": "ja",
+          "value": "\u30d0\u30fc\u30c8\u30fb\u30b7\u30f3\u30d7\u30bd\u30f3"
+        },
+        "ko": { "language": "ko", "value": "\ubc14\ud2b8 \uc2ec\uc2a8" },
+        "lv": { "language": "lv", "value": "B\u0101rts Simpsons" },
+        "nah": { "language": "nah", "value": "Bart Simpson" },
+        "nl": { "language": "nl", "value": "Bart Simpson" },
+        "oc": { "language": "oc", "value": "Bart Simpson" },
+        "pi": {
+          "language": "pi",
+          "value": "\u092c\u093e\u0930\u094d\u091f \u0938\u093f\u092e\u094d\u092a\u094d\u0938\u0928"
+        },
+        "pl": { "language": "pl", "value": "Bart Simpson" },
+        "pt": { "language": "pt", "value": "Bart Simpson" },
+        "ro": { "language": "ro", "value": "Bart Simpson" },
+        "ru": {
+          "language": "ru",
+          "value": "\u0411\u0430\u0440\u0442 \u0421\u0438\u043c\u043f\u0441\u043e\u043d"
+        },
+        "sa": {
+          "language": "sa",
+          "value": "\u092c\u093e\u0930\u094d\u091f \u0938\u093f\u092e\u094d\u092a\u094d\u0938\u0928"
+        },
+        "sh": { "language": "sh", "value": "Bart Simpson" },
+        "sk": { "language": "sk", "value": "Bart Simpson" },
+        "sq": { "language": "sq", "value": "Bart Simpson" },
+        "sr": {
+          "language": "sr",
+          "value": "\u0411\u0430\u0440\u0442 \u0421\u0438\u043c\u043f\u0441\u043e\u043d"
+        },
+        "sv": { "language": "sv", "value": "Bart Simpson" },
+        "th": {
+          "language": "th",
+          "value": "\u0e1a\u0e32\u0e23\u0e4c\u0e15 \u0e0b\u0e34\u0e21\u0e1b\u0e4c\u0e2a\u0e31\u0e19"
+        },
+        "tr": { "language": "tr", "value": "Bart Simpson" },
+        "uk": {
+          "language": "uk",
+          "value": "\u0411\u0430\u0440\u0442 \u0421\u0456\u043c\u043f\u0441\u043e\u043d"
+        },
+        "war": { "language": "war", "value": "Bart Simpson" },
+        "zh": {
+          "language": "zh",
+          "value": "\u5df4\u7279\u00b7\u8f9b\u666e\u68ee"
+        },
+        "gn": { "language": "gn", "value": "Bart Simpson" },
+        "ga": { "language": "ga", "value": "Bart Simpson" },
+        "br": { "language": "br", "value": "Bart Simpson" },
+        "new": {
+          "language": "new",
+          "value": "\u092c\u093e\u0930\u094d\u091f \u0938\u093f\u092e\u094d\u092a\u094d\u0938\u0928"
+        },
+        "nb": { "language": "nb", "value": "Bart Simpson" },
+        "ckb": {
+          "language": "ckb",
+          "value": "\u0628\u0627\u0631\u062a \u0633\u06cc\u0645\u067e\u0633\u06c6\u0646"
+        },
+        "nn": { "language": "nn", "value": "Bart Simpson" },
+        "zh-cn": {
+          "language": "zh-cn",
+          "value": "\u5df4\u7279\u00b7\u8f9b\u666e\u68ee"
+        },
+        "zh-hans": {
+          "language": "zh-hans",
+          "value": "\u5df4\u7279\u00b7\u8f9b\u666e\u68ee"
+        },
+        "zh-my": {
+          "language": "zh-my",
+          "value": "\u5df4\u7279\u00b7\u8f9b\u666e\u68ee"
+        },
+        "zh-sg": {
+          "language": "zh-sg",
+          "value": "\u5df4\u7279\u00b7\u8f9b\u666e\u68ee"
+        },
+        "zh-hant": {
+          "language": "zh-hant",
+          "value": "\u9738\u5b50\u00b7\u8f9b\u666e\u68ee"
+        },
+        "zh-hk": {
+          "language": "zh-hk",
+          "value": "\u9738\u5b50\u00b7\u8f9b\u666e\u68ee"
+        },
+        "zh-mo": {
+          "language": "zh-mo",
+          "value": "\u9738\u5b50\u00b7\u8f9b\u666e\u68ee"
+        },
+        "zh-tw": {
+          "language": "zh-tw",
+          "value": "\u9738\u5b50\u00b7\u8f9b\u666e\u68ee"
+        },
+        "ka": {
+          "language": "ka",
+          "value": "\u10d1\u10d0\u10e0\u10e2 \u10e1\u10d8\u10db\u10de\u10e1\u10dd\u10dc\u10d8"
+        },
+        "yi": {
+          "language": "yi",
+          "value": "\u05d1\u05d0\u05e8\u05d8 \u05e1\u05d9\u05de\u05e4\u05e1\u05d0\u05df"
+        },
+        "ia": { "language": "ia", "value": "Bart Simpson" },
+        "ne": {
+          "language": "ne",
+          "value": "\u092c\u093e\u0930\u094d\u091f \u0938\u093f\u092e\u094d\u092a\u094d\u0938\u0928"
+        },
+        "sco": { "language": "sco", "value": "Bart Simpson" },
+        "en-gb": { "language": "en-gb", "value": "Bart Simpson" },
+        "en-ca": { "language": "en-ca", "value": "Bart Simpson" },
+        "hy": {
+          "language": "hy",
+          "value": "\u0532\u0561\u0580\u0569 \u054d\u056b\u0574\u057a\u057d\u0578\u0576"
+        },
+        "uz": { "language": "uz", "value": "Bart Simpson" },
+        "wuu": {
+          "language": "wuu",
+          "value": "\u5df4\u7279\u00b7\u8f9b\u666e\u68ee"
+        }
+      },
+      "descriptions": {
+        "de": {
+          "language": "de",
+          "value": "Comicfigur aus der Fernsehserie \u201eDie Simpsons\u201c"
+        },
+        "fr": {
+          "language": "fr",
+          "value": "personnage de la s\u00e9rie t\u00e9l\u00e9vis\u00e9e Les Simpson"
+        },
+        "en": {
+          "language": "en",
+          "value": "fictional character from The Simpsons franchise"
+        },
+        "it": {
+          "language": "it",
+          "value": "protagonista della serie I Simpson"
+        },
+        "es": { "language": "es", "value": "personaje ficticio" },
+        "br": { "language": "br", "value": "tudenn heuliad skinwel" },
+        "nl": { "language": "nl", "value": "personage uit The Simpsons" },
+        "ne": {
+          "language": "ne",
+          "value": "\u0938\u093f\u092e\u094d\u092a\u0938\u0928\u094d\u0938 \u092e\u0924\u093e\u0927\u093f\u0915\u093e\u0930 \u092c\u093e\u091f \u0915\u093e\u0932\u094d\u092a\u0928\u093f\u0915 \u091a\u0930\u093f\u0924\u094d\u0930"
+        },
+        "ro": {
+          "language": "ro",
+          "value": "personaj fictiv din franciza Familia Simpson"
+        },
+        "cs": {
+          "language": "cs",
+          "value": "fiktivn\u00ed postava z americk\u00e9ho animovan\u00e9ho seri\u00e1lu Simpsonovi"
+        },
+        "he": {
+          "language": "he",
+          "value": "\u05d3\u05de\u05d5\u05ea \u05e8\u05d0\u05e9\u05d9\u05ea \u05de\u05e1\u05d3\u05e8\u05ea \u05d4\u05d8\u05dc\u05d5\u05d9\u05d6\u05d9\u05d4 \"\u05d4\u05e1\u05d9\u05de\u05e4\u05e1\u05d5\u05e0\u05e1\""
+        },
+        "sk": { "language": "sk", "value": "fikt\u00edvna postava" },
+        "pt": {
+          "language": "pt",
+          "value": "Personagem f\u00edcticio da s\u00e9rie de TV Norte- Americana ''Os Simpsons''"
+        },
+        "hu": {
+          "language": "hu",
+          "value": "egy kital\u00e1lt szerepl\u0151 a Simpson csal\u00e1d anim\u00e1ci\u00f3s rajzfilmsorozatban"
+        },
+        "ru": {
+          "language": "ru",
+          "value": "\u041f\u0435\u0440\u0441\u043e\u043d\u0430\u0436 \u043c\u0443\u043b\u044c\u0442\u0441\u0435\u0440\u0438\u0430\u043b\u0430 \u0421\u0438\u043c\u043f\u0441\u043e\u043d\u044b"
+        },
+        "fi": {
+          "language": "fi",
+          "value": "fiktiivinen hahmo Simpsonit-televisiosarjassa"
+        },
+        "ja": {
+          "language": "ja",
+          "value": "\u30b6\u30fb\u30b7\u30f3\u30d7\u30bd\u30f3\u30ba\u306e\u767b\u5834\u4eba\u7269"
+        },
+        "ast": { "language": "ast", "value": "personaxe de The Simpsons" },
+        "sv": { "language": "sv", "value": "fiktiv figur fr\u00e5n Simpsons" }
+      },
+      "aliases": {
+        "de": [
+          {
+            "language": "de",
+            "value": "Bartholomew JoJo \u201eBart\u201c Simpson"
+          },
+          { "language": "de", "value": "El Barto" },
+          { "language": "de", "value": "Bartman" }
+        ],
+        "en": [{ "language": "en", "value": "El Barto" }],
+        "ro": [
+          { "language": "ro", "value": "Bartholomew JoJo \"Bart\" Simpson" }
+        ],
+        "hu": [
+          { "language": "hu", "value": "Bartholomew J. Simpson" },
+          { "language": "hu", "value": "Bartholomew JoJo \"Bart\" Simpson" }
+        ],
+        "ast": [{ "language": "ast", "value": "El Barto" }]
+      },
+      "claims": {
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "b45382ffcd726de9cb535d3fe70ddf717a0d35a8",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 19324463,
+                  "id": "Q19324463"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "q5480$B4A6C99F-9E28-4A17-8BD7-2591ACD4EA94",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "40b2f4488342e4cd4d7ee494559a3435baccf706",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 15711870,
+                  "id": "Q15711870"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q5480$247d386e-4d9f-d0ef-696a-b750d91e3ca4",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "29d6e6de9e4e48dd1692512778e3f46581c6b976",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 15773317,
+                  "id": "Q15773317"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q5480$a89499ba-4b0a-2c10-135d-01a8251494af",
+            "rank": "normal"
+          }
+        ],
+        "P21": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P21",
+              "hash": "85ad4b1c7348f7a5aac521135040d74e91fb5939",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 6581097,
+                  "id": "Q6581097"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "q5480$D1143266-63F8-4DF1-A782-ECE6AB14BD7C",
+            "rank": "normal"
+          }
+        ],
+        "P22": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P22",
+              "hash": "a07708b313b0f43725142e2460d08a3bc26b16fa",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 7810,
+                  "id": "Q7810"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "q5480$4A2F75DA-7A3A-4BF6-A869-58888E532E28",
+            "rank": "normal"
+          }
+        ],
+        "P25": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P25",
+              "hash": "608e2a9f47363d9d9ddc661a87d37a5366ccf002",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 7828,
+                  "id": "Q7828"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "q5480$ED610732-3B43-4577-B237-5A5D40F95E0E",
+            "rank": "normal"
+          }
+        ],
+        "P345": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P345",
+              "hash": "b56720a1b0f14d51600fa31999891e9b340a451f",
+              "datavalue": { "value": "ch0003013", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P2241": [
+                {
+                  "snaktype": "value",
+                  "property": "P2241",
+                  "hash": "b5a95dd10e545d7e57bfcc86e5f3290b6c1231d3",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 44374960,
+                      "id": "Q44374960"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": ["P2241"],
+            "id": "q5480$bee91e6f-48a1-033f-fcce-0c284c6fab52",
+            "rank": "deprecated",
+            "references": [
+              {
+                "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": ["P143"]
+              }
+            ]
+          }
+        ],
+        "P646": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P646",
+              "hash": "58ea62563142f87d70847762b3db5d124da49d08",
+              "datavalue": { "value": "/m/0h6cb", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q5480$B946502D-A21E-4CFB-A442-F97646C6A667",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "2b00cb481cddcac7623114367489b5c194901c4a",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "a94b740202b097dd33355e0e6c00e54b9395e5e0",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 15241312,
+                          "id": "Q15241312"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P577": [
+                    {
+                      "snaktype": "value",
+                      "property": "P577",
+                      "hash": "fde79ecb015112d2f29229ccc1ec514ed3e71fa2",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2013-10-28T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": ["P248", "P577"]
+              }
+            ]
+          }
+        ],
+        "P19": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P19",
+              "hash": "65552ad1749a1c1a5ce73375f02d90731f537a57",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 151076,
+                  "id": "Q151076"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q5480$2D59A866-D6E7-4685-A463-47393FB9E240",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "d5847b9b6032aa8b13dae3c2dfd9ed5d114d21b3",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "5a343e7e758a4282a01316d3e959b6e653b767fc",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 11920,
+                          "id": "Q11920"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": ["P143"]
+              }
+            ]
+          }
+        ],
+        "P27": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P27",
+              "hash": "52d0408c7915122e0519a22577f0cbdcb28f749b",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 30,
+                  "id": "Q30"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q5480$252A553D-F1E4-417B-BBDD-A3ED1DE04262",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "d4bd87b862b12d99d26e86472d44f26858dee639",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "f30cbd35620c4ea6d0633aaf0210a8916130469b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 8447,
+                          "id": "Q8447"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": ["P143"]
+              }
+            ]
+          }
+        ],
+        "P1441": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1441",
+              "hash": "b144043e0cae76bfbf2a8256ecb9e6a583248450",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 886,
+                  "id": "Q886"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q5480$0D1E3CA4-8BE9-4D22-A5D4-3C48D088353D",
+            "rank": "normal"
+          }
+        ],
+        "P735": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P735",
+              "hash": "b601be4ec1bbd896e7e57cd43208c48b06aa3356",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 13435470,
+                  "id": "Q13435470"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P1545": [
+                {
+                  "snaktype": "value",
+                  "property": "P1545",
+                  "hash": "2a1ced1dca90648ea7e306acbadd74fc81a10722",
+                  "datavalue": { "value": "1", "type": "string" },
+                  "datatype": "string"
+                }
+              ],
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "b34154a6a001ab52ffbebc88c77be7e16840f917",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 49614,
+                      "id": "Q49614"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": ["P1545", "P3831"],
+            "id": "Q5480$48E4ADF8-2A76-4C42-A080-F6FE70DA7FCA",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P735",
+              "hash": "bdfdbb7c245822143825d3e49fdc710d0094044e",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 4926315,
+                  "id": "Q4926315"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P1545": [
+                {
+                  "snaktype": "value",
+                  "property": "P1545",
+                  "hash": "2a1ced1dca90648ea7e306acbadd74fc81a10722",
+                  "datavalue": { "value": "1", "type": "string" },
+                  "datatype": "string"
+                }
+              ]
+            },
+            "qualifiers-order": ["P1545"],
+            "id": "Q5480$2c9ca6ee-4638-6b84-362c-266eaae096a1",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P735",
+              "hash": "9c698002232b35db685ab05addfac24d8d84bcd1",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 19968024,
+                  "id": "Q19968024"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P1545": [
+                {
+                  "snaktype": "value",
+                  "property": "P1545",
+                  "hash": "7241753c62a310cf84895620ea82250dcea65835",
+                  "datavalue": { "value": "2", "type": "string" },
+                  "datatype": "string"
+                }
+              ]
+            },
+            "qualifiers-order": ["P1545"],
+            "id": "Q5480$ca8bbda8-48b8-dcd8-34cb-3b48131e5055",
+            "rank": "normal"
+          }
+        ],
+        "P734": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P734",
+              "hash": "30840ea81b80209fc399f1d2d367c835c57e291d",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2800825,
+                  "id": "Q2800825"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q5480$a79ee803-4d26-d5d8-21fc-05844833d5d0",
+            "rank": "normal"
+          }
+        ],
+        "P361": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P361",
+              "hash": "6981b05ed982f47e467aca6d3189eb9cc8332d74",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 27045143,
+                  "id": "Q27045143"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q5480$b3773356-4d86-66ae-c42c-da7ecf87f1e2",
+            "rank": "normal"
+          }
+        ],
+        "P3373": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P3373",
+              "hash": "b671d2db1f8d33937d6be30708e63e9b78832073",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 5846,
+                  "id": "Q5846"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q5480$cc4ffdab-48d5-4196-19df-a272606dc74c",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P3373",
+              "hash": "8d9455cbf5de7d887b5ee0b4241878759681312c",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 7834,
+                  "id": "Q7834"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q5480$a6e67f9d-4f0a-a506-89ee-69e85bb4c3fd",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P3373",
+              "hash": "8c9b83e68293feaee5018d35cef07b939015464b",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 4990628,
+                  "id": "Q4990628"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q5480$93A9FABF-4464-4BD8-99A3-FF51EF8FDBC0",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "44f20c7a2afcd545ef5715eb174bc2bf1b62655e",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "9e4828359519a6dcae6822776ff84fc5034dbdd9",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 1087745,
+                          "id": "Q1087745"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": ["P248"]
+              }
+            ]
+          }
+        ],
+        "P3417": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P3417",
+              "hash": "623dcc7a2318bf8b5e7b3e587a9f1aa18f078582",
+              "datavalue": { "value": "Bart-Simpson-14", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q5480$83F55025-970D-49C7-9671-AD0A94573062",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "3b0a5bb3c1f955edce73740124f7d935698092ad",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "3ac9682e789a3a3791d4fd088b265ea03abef101",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 51711,
+                          "id": "Q51711"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": ["P248"]
+              }
+            ]
+          }
+        ],
+        "P552": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P552",
+              "hash": "b895587e95733866ed4eb7d31ddde7e0733cda4a",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 789447,
+                  "id": "Q789447"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q5480$5d2fe85e-442b-c7fc-4408-8bd41a9dc736",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "5dee12e186a0ed4e7c7660366cfb945911ecc54f",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "0000174f59ac15407bd350c7469f773e34373eff",
+                      "datavalue": {
+                        "value": "https://www.theguardian.com/notesandqueries/query/0,5753,-22317,00.html",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P1683": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1683",
+                      "hash": "d9f062e1a7713e19cc326816d3a3ade2f9b58043",
+                      "datavalue": {
+                        "value": {
+                          "text": "the reason that Bart Simpson is left-handed (and almost everyone else in The Simpsons, for that matter) is because Matt Groening is also left-handed",
+                          "language": "en"
+                        },
+                        "type": "monolingualtext"
+                      },
+                      "datatype": "monolingualtext"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "31987821b1a13c7a4dcb32d764fcd7e24e9980b2",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2017-02-19T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": ["P854", "P1683", "P813"]
+              }
+            ]
+          }
+        ],
+        "P1559": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1559",
+              "hash": "1643787ab1cf68c07e907f0f5eb1ed7845b9aee9",
+              "datavalue": {
+                "value": {
+                  "text": "Bartholomew JoJo Simpson",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "id": "Q5480$6ad1b98f-4d21-61af-2631-ab841da934ae",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "289b6566b59411e5f5a2c1d22988f1ddb2ea22ff",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "dac786c9130e9174d97464e03c545f4f854cb0b7",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 3151484,
+                          "id": "Q3151484"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P304": [
+                    {
+                      "snaktype": "value",
+                      "property": "P304",
+                      "hash": "a7ff5a54ef466499b77581f57c20e844bac44d07",
+                      "datavalue": { "value": "178", "type": "string" },
+                      "datatype": "string"
+                    }
+                  ],
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e17507043402fe54ae6c4d65cc51f46cec987de9",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 8449,
+                          "id": "Q8449"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": ["P248", "P304", "P143"]
+              }
+            ]
+          }
+        ],
+        "P170": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P170",
+              "hash": "5bb8788100ce4b5131ff09e5c4ec9a004cbb6213",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 43994,
+                  "id": "Q43994"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q5480$9EA4758B-75C3-4D80-AE93-DFE4D2122F81",
+            "rank": "normal"
+          }
+        ],
+        "P175": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P175",
+              "hash": "3053bfe7841d69c1ebce1a2daa23b71033fca26b",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 229211,
+                  "id": "Q229211"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "0e7fccfc97bc339054b4aa0a68553dbdd448ebf9",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 2405480,
+                      "id": "Q2405480"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P407": [
+                {
+                  "snaktype": "value",
+                  "property": "P407",
+                  "hash": "daf1c4fcb58181b02dff9cc89deb084004ddae4b",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 1860,
+                      "id": "Q1860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": ["P3831", "P407"],
+            "id": "Q5480$67483002-43fc-4553-4867-aa24b29cc1ec",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P175",
+              "hash": "6b915c22b4d5e4be56d5b537107e57b2da986c20",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 3336538,
+                  "id": "Q3336538"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3831": [
+                {
+                  "snaktype": "value",
+                  "property": "P3831",
+                  "hash": "0e7fccfc97bc339054b4aa0a68553dbdd448ebf9",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 2405480,
+                      "id": "Q2405480"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P407": [
+                {
+                  "snaktype": "value",
+                  "property": "P407",
+                  "hash": "d197d0a5efa4b4c23a302a829dd3ef43684fe002",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 150,
+                      "id": "Q150"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P27": [
+                {
+                  "snaktype": "value",
+                  "property": "P27",
+                  "hash": "a3d46fa4beeabd048657cdb76d1f1113c94ae554",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 142,
+                      "id": "Q142"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": ["P3831", "P407", "P27"],
+            "id": "Q5480$97ebf743-4366-9257-7234-8acb720a051a",
+            "rank": "normal"
+          }
+        ],
+        "P1429": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1429",
+              "hash": "47534d63a13a87ee88a09af157063e685f9ae7d6",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1425114,
+                  "id": "Q1425114"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q5480$b2f10e24-465c-b7c3-9820-45911ec63084",
+            "rank": "normal"
+          }
+        ],
+        "P1830": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1830",
+              "hash": "da5ec6d09d025b04e2f72fa9872a25ac1c27fa58",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1425114,
+                  "id": "Q1425114"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q5480$11B2C953-8348-4B83-9E0C-8D36F0AC2CEC",
+            "rank": "normal"
+          }
+        ],
+        "P6249": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P6249",
+              "hash": "4232b70df0e68a2fadce5f43b500cb29de966c58",
+              "datavalue": {
+                "value": {
+                  "amount": "+10",
+                  "unit": "http://www.wikidata.org/entity/Q24564698"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "id": "Q5480$73485C2F-7F14-4195-8A4C-75E168AAF56B",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "1de1100291b271c2542d0f73410bb5f3997d71cf",
+                "snaks": {
+                  "P4656": [
+                    {
+                      "snaktype": "value",
+                      "property": "P4656",
+                      "hash": "4ef374c1878a10f396e38d1fd52e2021d7dcc5d5",
+                      "datavalue": {
+                        "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/Specific_age_inside_fictional_universe&oldid=812262217",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": ["P4656"]
+              }
+            ]
+          }
+        ],
+        "P6251": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P6251",
+              "hash": "3794e899452f081a923c0f19a2220dc9d7fea0e0",
+              "datavalue": {
+                "value": { "text": "Eat my shorts.", "language": "en" },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "id": "Q5480$2f8c4b25-463a-3ef9-8070-322cecda61de",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P6251",
+              "hash": "be70b5b355442f0101b4e456f231974ad94002cb",
+              "datavalue": {
+                "value": { "text": "\u00a1Ay, caramba!", "language": "es" },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "id": "Q5480$314897a3-48fe-7f37-55ca-e8a59df57ab8",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P6251",
+              "hash": "fa54b26fd731fce6197f218e9bb15b2dfd6567d5",
+              "datavalue": {
+                "value": { "text": "Don't have a cow, man!", "language": "en" },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "id": "Q5480$3306032d-4136-1f68-dd73-5dca6c930e3e",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P6251",
+              "hash": "d4754a091bda834009ff5ae3af85fea109ecb9a8",
+              "datavalue": {
+                "value": {
+                  "text": "I'm Bart Simpson. Who the hell are you?",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "id": "Q5480$9cc8a2f5-42e9-d604-936a-c98d3f56e16c",
+            "rank": "normal"
+          }
+        ],
+        "P434": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P434",
+              "hash": "eae5707d37c29a41eb7434ef1cfe211807b0b4bb",
+              "datavalue": {
+                "value": "e8f5ae74-9a78-49c9-9004-b8a5ceb34c8e",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P1810": [
+                {
+                  "snaktype": "value",
+                  "property": "P1810",
+                  "hash": "7a7f4be17f73d5d79dd9b84363851fb34b60bc48",
+                  "datavalue": { "value": "Bart Simpson", "type": "string" },
+                  "datatype": "string"
+                }
+              ]
+            },
+            "qualifiers-order": ["P1810"],
+            "id": "Q5480$60FA768C-3540-4A16-BE9D-0231FDA515E9",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "8a410d13d436dd0cc7e3ac7382d8f219c36dd93e",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "623cc8f0e2f65afe4d66b91962d354a2f3aa9a27",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 14005,
+                          "id": "Q14005"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "11db11d396aa6cb22696d16d52d031802b4369b4",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2018-12-19T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": ["P248", "P813"]
+              }
+            ]
+          }
+        ],
+        "P5247": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P5247",
+              "hash": "fc4dcb474f4b13fd2e516d89df41a7a35c8bd568",
+              "datavalue": { "value": "3005-65", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q5480$82A748B0-B0EA-4AD5-910E-CE1E20E9A0D4",
+            "rank": "normal"
+          }
+        ],
+        "P5905": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P5905",
+              "hash": "3459683daf3018c192d1e6c8b1be9395b119aa2d",
+              "datavalue": { "value": "4005-3401", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q5480$FD801B94-BACC-40C7-95D3-A4CE69C263AE",
+            "rank": "normal"
+          }
+        ],
+        "P1953": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1953",
+              "hash": "eedbc77d2e34275756e438884850881bc2ff0695",
+              "datavalue": { "value": "1010823", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q5480$1AADAC40-72C2-4048-9911-7B7F6AA9E7B5",
+            "rank": "normal"
+          }
+        ],
+        "P4839": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P4839",
+              "hash": "169e0d2cb3ac7ffc4e81a64c7e4a7d36dd4550fc",
+              "datavalue": {
+                "value": "Entity[\"FictionalCharacter\", \"BartholomewJoJoSimpson\"]",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q5480$8460BB18-DB38-4C85-BE7A-BE6EC901545E",
+            "rank": "normal"
+          }
+        ],
+        "P5421": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P5421",
+              "hash": "adbc38f71b1dcd36a00fe93ccaf52351a4c41abe",
+              "datavalue": { "value": "55745", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q5480$0B6512B2-84DA-4B88-AA4A-2679285722FB",
+            "rank": "normal"
+          }
+        ],
+        "P6327": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P6327",
+              "hash": "111a637a80ff409aa8abe072adc2db2ec1f593c0",
+              "datavalue": { "value": "33678", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q5480$00939B0C-4EB7-4572-A8A3-3D7EF8CF8C52",
+            "rank": "normal"
+          }
+        ],
+        "P551": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P551",
+              "hash": "3362d0ad87ffb41cb4f7749033549d70f81a4ad3",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 151076,
+                  "id": "Q151076"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q5480$25B443B7-7EB0-40DC-B80F-DF7FCE721D8A",
+            "rank": "normal"
+          }
+        ],
+        "P1080": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1080",
+              "hash": "8121263a05b4f26ec9ade6545321d7c09e2d9b9b",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 61468436,
+                  "id": "Q61468436"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q5480$A24AD078-018E-4002-82A3-26BDE6C9D98D",
+            "rank": "normal"
+          }
+        ],
+        "P495": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P495",
+              "hash": "7f985e15819b74ed189d022e004890e66d2ae42e",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 30,
+                  "id": "Q30"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q5480$06A50F9E-18ED-42D9-B17B-335A6DEABACA",
+            "rank": "normal"
+          }
+        ],
+        "P742": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P742",
+              "hash": "b560ed8245d5fbe4cc62f26eb7a288ff3fc2b02d",
+              "datavalue": { "value": "El Barto", "type": "string" },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "Q5480$333206e0-48b1-b8cf-b32d-6d5594160777",
+            "rank": "normal"
+          }
+        ],
+        "P244": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P244",
+              "hash": "58d034d29f277e9502c230f915f624401f1ce3da",
+              "datavalue": { "value": "nb2015005410", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q5480$17A9662F-9744-46EE-B4BB-3AD3F3C8DBC4",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "ac5d47e9fbcc281bc0d27a205ae02e22ad24ce31",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "b560dc6b281a39d061e189d2eb299a426a06f1a2",
+                      "datavalue": {
+                        "value": "https://github.com/JohnMarkOckerbloom/ftl/blob/master/data/wikimap",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "0dcf4f64e93fdcc654e2c7534285881fe48b9f3d",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2019-04-03T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": ["P854", "P813"]
+              }
+            ]
+          }
+        ],
+        "P1412": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1412",
+              "hash": "7056615ebf0fbde82a3ca3bb9b2c481669a46eb1",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1860,
+                  "id": "Q1860"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q5480$f857c325-4057-e6b2-7c11-a5139ff08819",
+            "rank": "normal"
+          }
+        ],
+        "P106": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P106",
+              "hash": "a75d09db2323c2edc4a1a5ee5a6550413f72b92a",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 48942,
+                  "id": "Q48942"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q5480$51bff74f-4847-87d6-dc89-461f9f9fbc79",
+            "rank": "normal"
+          }
+        ],
+        "P2572": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2572",
+              "hash": "49626e06c7703a62ec1ae2498674c0d157eb5d33",
+              "datavalue": { "value": "BartSimpson", "type": "string" },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "Q5480$7117ad22-4a71-de67-8f54-ba838586b25f",
+            "rank": "normal"
+          }
+        ],
+        "P53": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P53",
+              "hash": "25cee4d45b362b63df087b1704abeba97238626f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 9762,
+                  "id": "Q9762"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q5480$fe8abb12-4f27-f221-fbb1-5acf593e4c8d",
+            "rank": "normal"
+          }
+        ],
+        "P7047": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P7047",
+              "hash": "555c6765697f2a06bb88c26cf017d1be84b9c5b6",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1411101,
+                  "id": "Q1411101"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q5480$EEA068BF-0257-427D-ACEB-8CBF9F7ED0D4",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "b9596705f90f21604c5f9013d7155d898c88c17c",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "f30cbd35620c4ea6d0633aaf0210a8916130469b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 8447,
+                          "id": "Q8447"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P4656": [
+                    {
+                      "snaktype": "value",
+                      "property": "P4656",
+                      "hash": "1194a81dbaae724bbfed1bae1801b64fc1152374",
+                      "datavalue": {
+                        "value": "https://fr.wikipedia.org/w/index.php?title=Bart_Simpson&oldid=161081398",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": ["P143", "P4656"]
+              }
+            ]
+          }
+        ],
+        "P7157": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P7157",
+              "hash": "3818ebac4a31117deea3b38871b125f048921619",
+              "datavalue": { "value": "966", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q5480$06d5d5cd-4c21-f6a8-33bb-29c4d2b82038",
+            "rank": "normal"
+          }
+        ],
+        "P6262": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P6262",
+              "hash": "7f6e3e9a3f50eb85da87a60ee114816428d8c3c8",
+              "datavalue": {
+                "value": "simpsons:Bart_Simpson",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P1810": [
+                {
+                  "snaktype": "value",
+                  "property": "P1810",
+                  "hash": "7a7f4be17f73d5d79dd9b84363851fb34b60bc48",
+                  "datavalue": { "value": "Bart Simpson", "type": "string" },
+                  "datatype": "string"
+                }
+              ],
+              "P407": [
+                {
+                  "snaktype": "value",
+                  "property": "P407",
+                  "hash": "daf1c4fcb58181b02dff9cc89deb084004ddae4b",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 1860,
+                      "id": "Q1860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": ["P1810", "P407"],
+            "id": "Q5480$3D36AF93-862C-4B40-A532-B2A6805FD833",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "48387eca8f0004196845085d353d952d1f618140",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "909946e6724d2b674a8ce389aef7a6f4554a8753",
+                      "datavalue": {
+                        "value": "https://simpsons.fandom.com/wiki/Bart_Simpson?oldid=862516",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "6612924e0d0305c72bd45c8f41978130983940e3",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2019-11-04T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ],
+                  "P1810": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1810",
+                      "hash": "7a7f4be17f73d5d79dd9b84363851fb34b60bc48",
+                      "datavalue": {
+                        "value": "Bart Simpson",
+                        "type": "string"
+                      },
+                      "datatype": "string"
+                    }
+                  ]
+                },
+                "snaks-order": ["P854", "P813", "P1810"]
+              }
+            ]
+          }
+        ],
+        "P7818": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P7818",
+              "hash": "3f3425ae6dd26ea7321a1572c9250d5f795e5e07",
+              "datavalue": { "value": "Bart_Simpson", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q5480$B67E5EC5-6D24-4F35-99E0-4CDAB9B183F3",
+            "rank": "normal"
+          }
+        ],
+        "P7822": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P7822",
+              "hash": "b6ed16fb85a69c07cf0182b98799bf51eb666445",
+              "datavalue": { "value": "Bart_Simpson", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q5480$1B64D3F2-5CAA-41B2-85F6-05817547067D",
+            "rank": "normal"
+          }
+        ],
+        "P4584": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P4584",
+              "hash": "0f1178d21f710c91f295ec6e89f6ebb9c299e6ed",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2732306,
+                  "id": "Q2732306"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q5480$bf492c24-42c5-ff0e-d868-4b03a2bd0af3",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": ["P143"]
+              }
+            ]
+          }
+        ],
+        "P18": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P18",
+              "hash": "af3f033878f0e02b0cc327fa426b17fb1123e7e7",
+              "datavalue": {
+                "value": "Masopust masks in Milevsko (2015) (046).jpg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P2096": [
+                {
+                  "snaktype": "value",
+                  "property": "P2096",
+                  "hash": "41c949ab5b4f2d451330144f606ce924d2577362",
+                  "datavalue": {
+                    "value": {
+                      "text": "A photo of a person cosplaying as Bart Simpson",
+                      "language": "en"
+                    },
+                    "type": "monolingualtext"
+                  },
+                  "datatype": "monolingualtext"
+                }
+              ],
+              "P180": [
+                {
+                  "snaktype": "value",
+                  "property": "P180",
+                  "hash": "1b5e2242ceb443b30e73fa83cd3a09ffbc182e2b",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 5,
+                      "id": "Q5"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                },
+                {
+                  "snaktype": "value",
+                  "property": "P180",
+                  "hash": "71e3e606a43390bdd532faef0c814d0196ef995a",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 142554,
+                      "id": "Q142554"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": ["P2096", "P180"],
+            "id": "Q5480$f96af430-456d-b42e-5a2f-bc55027c75e5",
+            "rank": "normal"
+          }
+        ],
+        "P8345": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P8345",
+              "hash": "076f8aad66e6e9c34144af0aa1bfa43128f19853",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 7764350,
+                  "id": "Q7764350"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q5480$BCDBEC60-C702-4141-8756-2532139291EA",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {
+        "afwiki": { "site": "afwiki", "title": "Bart Simpson", "badges": [] },
+        "arwiki": {
+          "site": "arwiki",
+          "title": "\u0628\u0627\u0631\u062a \u0633\u064a\u0645\u0628\u0633\u0648\u0646",
+          "badges": []
+        },
+        "astwiki": { "site": "astwiki", "title": "Bart Simpson", "badges": [] },
+        "azwiki": { "site": "azwiki", "title": "Bart Simpson", "badges": [] },
+        "barwiki": { "site": "barwiki", "title": "Bart Simpson", "badges": [] },
+        "bgwiki": {
+          "site": "bgwiki",
+          "title": "\u0411\u0430\u0440\u0442 \u0421\u0438\u043c\u043f\u0441\u044a\u043d",
+          "badges": []
+        },
+        "bswiki": { "site": "bswiki", "title": "Bart Simpson", "badges": [] },
+        "cawiki": { "site": "cawiki", "title": "Bart Simpson", "badges": [] },
+        "ckbwiki": {
+          "site": "ckbwiki",
+          "title": "\u0628\u0627\u0631\u062a \u0633\u06cc\u0645\u067e\u0633\u06c6\u0646",
+          "badges": []
+        },
+        "commonswiki": {
+          "site": "commonswiki",
+          "title": "Category:Bart Simpson",
+          "badges": []
+        },
+        "cswiki": { "site": "cswiki", "title": "Bart Simpson", "badges": [] },
+        "dawiki": {
+          "site": "dawiki",
+          "title": "Bart Simpson",
+          "badges": ["Q17559452"]
+        },
+        "dawikiquote": {
+          "site": "dawikiquote",
+          "title": "Bart Simpson",
+          "badges": []
+        },
+        "dewiki": { "site": "dewiki", "title": "Bart Simpson", "badges": [] },
+        "enwiki": {
+          "site": "enwiki",
+          "title": "Bart Simpson",
+          "badges": ["Q17437796"]
+        },
+        "eswiki": {
+          "site": "eswiki",
+          "title": "Bart Simpson",
+          "badges": ["Q17437798"]
+        },
+        "etwiki": { "site": "etwiki", "title": "Bart Simpson", "badges": [] },
+        "euwiki": { "site": "euwiki", "title": "Bart Simpson", "badges": [] },
+        "fawiki": {
+          "site": "fawiki",
+          "title": "\u0628\u0627\u0631\u062a \u0633\u06cc\u0645\u067e\u0633\u0648\u0646",
+          "badges": []
+        },
+        "fiwiki": { "site": "fiwiki", "title": "Bart Simpson", "badges": [] },
+        "frwiki": {
+          "site": "frwiki",
+          "title": "Bart Simpson",
+          "badges": ["Q17437798"]
+        },
+        "gawiki": { "site": "gawiki", "title": "Bart Simpson", "badges": [] },
+        "glwiki": { "site": "glwiki", "title": "Bart Simpson", "badges": [] },
+        "gnwiki": { "site": "gnwiki", "title": "Bart Simpson", "badges": [] },
+        "hewiki": {
+          "site": "hewiki",
+          "title": "\u05d1\u05d0\u05e8\u05d8 \u05e1\u05d9\u05de\u05e4\u05e1\u05d5\u05df",
+          "badges": []
+        },
+        "hewikiquote": {
+          "site": "hewikiquote",
+          "title": "\u05d1\u05d0\u05e8\u05d8 \u05e1\u05d9\u05de\u05e4\u05e1\u05d5\u05df",
+          "badges": []
+        },
+        "hrwiki": { "site": "hrwiki", "title": "Bart Simpson", "badges": [] },
+        "huwiki": { "site": "huwiki", "title": "Bart Simpson", "badges": [] },
+        "hywiki": {
+          "site": "hywiki",
+          "title": "\u0532\u0561\u0580\u0569 \u054d\u056b\u0574\u0583\u057d\u0578\u0576",
+          "badges": []
+        },
+        "iawiki": { "site": "iawiki", "title": "Bart Simpson", "badges": [] },
+        "iswiki": { "site": "iswiki", "title": "Bart Simpson", "badges": [] },
+        "itwiki": { "site": "itwiki", "title": "Bart Simpson", "badges": [] },
+        "jawiki": {
+          "site": "jawiki",
+          "title": "\u30d0\u30fc\u30c8\u30fb\u30b7\u30f3\u30d7\u30bd\u30f3",
+          "badges": []
+        },
+        "kawiki": {
+          "site": "kawiki",
+          "title": "\u10d1\u10d0\u10e0\u10e2 \u10e1\u10d8\u10db\u10e4\u10e1\u10dd\u10dc\u10d8",
+          "badges": []
+        },
+        "kowiki": {
+          "site": "kowiki",
+          "title": "\ubc14\ud2b8 \uc2ec\uc2a8",
+          "badges": []
+        },
+        "lvwiki": {
+          "site": "lvwiki",
+          "title": "B\u0101rts Simpsons",
+          "badges": []
+        },
+        "nahwiki": { "site": "nahwiki", "title": "Bart Simpson", "badges": [] },
+        "newiki": {
+          "site": "newiki",
+          "title": "\u092c\u093e\u0930\u094d\u091f \u0938\u093f\u092e\u094d\u092a\u094d\u0938\u0928",
+          "badges": []
+        },
+        "newwiki": {
+          "site": "newwiki",
+          "title": "\u092c\u093e\u0930\u094d\u091f \u0938\u093f\u092e\u094d\u092a\u094d\u0938\u0928",
+          "badges": []
+        },
+        "nlwiki": { "site": "nlwiki", "title": "Bart Simpson", "badges": [] },
+        "nowiki": { "site": "nowiki", "title": "Bart Simpson", "badges": [] },
+        "ocwiki": { "site": "ocwiki", "title": "Bart Simpson", "badges": [] },
+        "piwiki": {
+          "site": "piwiki",
+          "title": "\u092c\u093e\u0930\u094d\u091f \u0938\u093f\u092e\u094d\u092a\u094d\u0938\u0928",
+          "badges": []
+        },
+        "plwiki": { "site": "plwiki", "title": "Bart Simpson", "badges": [] },
+        "ptwiki": { "site": "ptwiki", "title": "Bart Simpson", "badges": [] },
+        "rowiki": { "site": "rowiki", "title": "Bart Simpson", "badges": [] },
+        "ruwiki": {
+          "site": "ruwiki",
+          "title": "\u0411\u0430\u0440\u0442 \u0421\u0438\u043c\u043f\u0441\u043e\u043d",
+          "badges": []
+        },
+        "ruwikiquote": {
+          "site": "ruwikiquote",
+          "title": "\u0411\u0430\u0440\u0442 \u0421\u0438\u043c\u043f\u0441\u043e\u043d",
+          "badges": []
+        },
+        "sawiki": {
+          "site": "sawiki",
+          "title": "\u092c\u093e\u0930\u094d\u091f \u0938\u093f\u092e\u094d\u092a\u094d\u0938\u0928",
+          "badges": []
+        },
+        "scowiki": { "site": "scowiki", "title": "Bart Simpson", "badges": [] },
+        "shwiki": { "site": "shwiki", "title": "Bart Simpson", "badges": [] },
+        "simplewiki": {
+          "site": "simplewiki",
+          "title": "Bart Simpson",
+          "badges": []
+        },
+        "skwiki": { "site": "skwiki", "title": "Bart Simpson", "badges": [] },
+        "sqwiki": { "site": "sqwiki", "title": "Bart Simpson", "badges": [] },
+        "sqwikiquote": {
+          "site": "sqwikiquote",
+          "title": "Bart Simpson",
+          "badges": []
+        },
+        "srwiki": {
+          "site": "srwiki",
+          "title": "\u0411\u0430\u0440\u0442 \u0421\u0438\u043c\u043f\u0441\u043e\u043d",
+          "badges": []
+        },
+        "svwiki": { "site": "svwiki", "title": "Bart Simpson", "badges": [] },
+        "svwikiquote": {
+          "site": "svwikiquote",
+          "title": "Bart Simpson",
+          "badges": []
+        },
+        "thwiki": {
+          "site": "thwiki",
+          "title": "\u0e1a\u0e32\u0e23\u0e4c\u0e15 \u0e0b\u0e34\u0e21\u0e1b\u0e4c\u0e2a\u0e31\u0e19",
+          "badges": []
+        },
+        "trwiki": {
+          "site": "trwiki",
+          "title": "Bart Simpson",
+          "badges": ["Q17437796"]
+        },
+        "trwikiquote": {
+          "site": "trwikiquote",
+          "title": "Bart Simpson",
+          "badges": []
+        },
+        "ukwiki": {
+          "site": "ukwiki",
+          "title": "\u0411\u0430\u0440\u0442 \u0421\u0456\u043c\u043f\u0441\u043e\u043d",
+          "badges": []
+        },
+        "uzwiki": { "site": "uzwiki", "title": "Bart Simpson", "badges": [] },
+        "warwiki": { "site": "warwiki", "title": "Bart Simpson", "badges": [] },
+        "wuuwiki": {
+          "site": "wuuwiki",
+          "title": "\u5df4\u7279\u00b7\u8f9b\u666e\u68ee",
+          "badges": []
+        },
+        "yiwiki": {
+          "site": "yiwiki",
+          "title": "\u05d1\u05d0\u05e8\u05d8 \u05e1\u05d9\u05de\u05e4\u05e1\u05d0\u05df",
+          "badges": []
+        },
+        "zhwiki": {
+          "site": "zhwiki",
+          "title": "\u5df4\u7279\u00b7\u8f9b\u666e\u68ee",
+          "badges": []
+        }
+      }
+    }
+  },
+  "success": 1
+}
